@@ -17,10 +17,6 @@ Step 8:Handle any potential errors during the transcribing process. If the audio
 
 ## Program:
 ```
-Developed By : Sai Eswar Kandukuri
-Register Number : 212221240020
-```
-```
 import speech_recognition as sr
 
 # Assign a string variable "file" with the name of the audio file that you want to transcribe.
